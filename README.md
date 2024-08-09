@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
+i'm just another electrical engineer. Maybe a tiny bit more injovative than usual. Please check my improvements tomthis world pinned to this profile, here below... 👇
 <!--
 **fbv81bp/FBV81Bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

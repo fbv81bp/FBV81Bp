@@ -1,6 +1,14 @@
 ## Hey there 👋
 
-yet another electrical engineer here, maybe a tiny bit more innovative than usual. Please check my improvements to this world pinned to this profile... 👇
+yet another electrical engineer here, maybe a tiny bit more innovative than usual.
+
+📫 How to reach me: just seek fbv81bp all around the internet and you shall find.
+
+👯 I’m looking to collaborate on: a TOR guard node protection with hashes whose key idea is the more nonces are applied to be hashed together with a potential trator's name, the larger hash their identity gets assigned to, amd this can be done anonymously.
+
+🔭 I’m currently working on: the digital swamp which means anti personnel mimes that disarm in the presence of a cryptographically secured radio transmitter, or otherwise acticate in the prescence of unknown/foreign intruders.
+
+ 🌱 I’m currently learning: side channel.and tamper resistance, so that I could use an LCD module and some tricky keyboard to actually secure any clamdestine communication with this pinned 3 modules or their successors...👇🏾
 <!--
 **fbv81bp/FBV81Bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

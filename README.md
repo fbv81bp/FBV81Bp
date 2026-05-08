@@ -10,7 +10,7 @@ yet another electrical engineer here, maybe a tiny bit more innovative than usua
 
  🌱 I’m currently learning: side channel and tamper resistance, so that I could use an LCD module and some tricky keyboard to further secure any clandestine communication with these 3 pinned modules or rather their more advanced successors...👇🏾
 
-⚡ Fun fact: militaries usually desire such...☝🏾 but in this inperfect form it is still applicable to stir shit among underground organisations.
+⚡ Fun fact: militaries usually desire such...☝🏾 but in this imperfect form it is still very much applicable to stir shit among underground organisations.
 <!--
 **fbv81bp/FBV81Bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

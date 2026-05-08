@@ -6,7 +6,7 @@ yet another electrical engineer here, maybe a tiny bit more innovative than usua
 
 👯 I’m looking to collaborate on: a TOR guard node protection with hashes whose key idea is the more nonces are applied to be hashed together with a potential trator's name, the larger hash their identity gets assigned to, and this can be done anonymously.
 
-🔭 I’m currently working on: the digital swamp which means anti personnel mimes that unarm in the presence of a cryptographically secured key hopping radio transmitter, or otherwise activate in the prescence of unknown/foreign intruders.
+🔭 I’m currently working on: the digital swamp which means anti personnel mines that unarm in the presence of a cryptographically secured key hopping radio transmitter, or otherwise activate in the prescence of unknown/foreign intruders.
 
  🌱 I’m currently learning: side channel and tamper resistance, so that I could use an LCD module and some tricky keyboard to further secure any clandestine communication with this pinned 3 modules or rather their more advanced successors...👇🏾
 

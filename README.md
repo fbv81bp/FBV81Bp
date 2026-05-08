@@ -8,7 +8,7 @@ yet another electrical engineer here, maybe a tiny bit more innovative than usua
 
 🔭 I’m currently working on: the digital swamp which means anti personnel mimes that disarm in the presence of a cryptographically secured radio transmitter, or otherwise acticate in the prescence of unknown/foreign intruders.
 
- 🌱 I’m currently learning: side channel.and tamper resistance, so that I could use an LCD module and some tricky keyboard to actually secure any clamdestine communication with this pinned 3 modules or their successors...👇🏾
+ 🌱 I’m currently learning: side channel.and tamper resistance, so that I could use an LCD module and some tricky keyboard to furthrr secure any clandestine communication with this pinned 3 modules or rather their more advanced successors...👇🏾
 <!--
 **fbv81bp/FBV81Bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,9 @@ yet another electrical engineer here, maybe a tiny bit more innovative than usua
 
 🔭 I’m currently working on: the digital swamp which means anti personnel mines that unarm in the presence of a cryptographically secured key hopping radio transmitter, or otherwise activate in the prescence of unknown/foreign intruders.
 
- 🌱 I’m currently learning: side channel and tamper resistance, so that I could use an LCD module and some tricky keyboard to further secure any clandestine communication with this pinned 3 modules or rather their more advanced successors...👇🏾
+ 🌱 I’m currently learning: side channel and tamper resistance, so that I could use an LCD module and some tricky keyboard to further secure any clandestine communication with these 3 pinned modules or rather their more advanced successors...👇🏾
 
-⚡ Fun fact: militaries are usually interested in this...☝🏾 but in this inperfect form it is still applicable to stir shit among underground organisations.
+⚡ Fun fact: militaries usually desire such...☝🏾 but in this inperfect form it is still applicable to stir shit among underground organisations.
 <!--
 **fbv81bp/FBV81Bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

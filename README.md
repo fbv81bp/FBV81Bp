@@ -4,7 +4,7 @@ yet another electrical engineer here, maybe a tiny bit more innovative than usua
 
 📫 How to reach me: just seek fbv81bp all around the internet and you shall find.
 
-👯 I’m looking to collaborate on: a TOR guard node protection with hashes whose key idea is the more nonces are applied to be hashed together with a potential trator's name, the larger hash their identity gets assigned to, and this can be done anonymously.
+👯 I’m looking to collaborate on: a TOR guard node protection with hashes whose key idea is the more nonces are applied to be hashed together with a potential traitor's name, the larger hash gets their identity assigned to, and such hashes can be spread without compromising user anonymity.
 
 🔭 I’m currently working on: the digital swamp which means anti personnel mines that unarm in the presence of a cryptographically secured key hopping radio transmitter, or otherwise activate in the prescence of unknown/foreign intruders.
 
